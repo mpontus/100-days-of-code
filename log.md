@@ -12,7 +12,7 @@
 3. [library/postgres - Docker Hub](https://hub.docker.com/_/postgres/)
 4. [library/node - Docker Hub](https://hub.docker.com/_/node/)
 
-### Day 2: July 17, 2017
+### Day 2: July 18, 2017
 
 **Today's Progress**: Resumed decoupling my external dev server for create-react-app from react-scripts.
 
@@ -21,3 +21,14 @@
 **Link(s) to work:**
 1. [How Dev Server is bootstrapped by Webpack itself](https://github.com/webpack/webpack-dev-server/blob/master/bin/webpack-dev-server.js)
 2. [How React Scripts bootstraps their Dev Server](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/scripts/start.js)
+
+### Day 3: July 19, 2017
+
+**Today's Progress**: Published [Atom](https://atom.io/) package which enables tab rotation mechanism I've been missing.
+
+**Thoughts:** This mechanism has been essential to my web browsing experience, and by this day I haven't been able to apply it anywhere else but [Pentadactyl](https://github.com/5digits/dactyl). Authoring in Atom is nice. I'd love to put out a simliar CLI tool for emacs at some point.
+
+**Link(s) to work:**
+1. [Atom Package: Active Tab In Front](https://atom.io/packages/active-tab-in-front)
+2. [Building your first Atom plugin](https://github.com/blog/2231-building-your-first-atom-plugin)
+3. [Atom API](https://atom.io/docs/api/v1.18.0/AtomEnvironment)
