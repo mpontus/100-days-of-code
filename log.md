@@ -32,3 +32,12 @@
 1. [Atom Package: Active Tab In Front](https://atom.io/packages/active-tab-in-front)
 2. [Building your first Atom plugin](https://github.com/blog/2231-building-your-first-atom-plugin)
 3. [Atom API](https://atom.io/docs/api/v1.18.0/AtomEnvironment)
+
+### Day 4: July 20, 2017
+
+**Today's Progress**: Fixed a bug in my Atom package which happens when you rearrange tabs during removal process.
+
+**Thoughts:** setTimeout is probably a hack. You could probably accomplish the same by keeping track of the activeness of the removal process. It's going to be important if those events happen to become asynchronous.
+
+**Link(s) to work:**
+1. [Fixed a bug with removing an item · mpontus/atom-active-tab-in-front@ae490a2](https://github.com/mpontus/atom-active-tab-in-front/commit/ae490a2834d23377f476f6d95eb481f514dbdff8)
