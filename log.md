@@ -41,3 +41,9 @@
 
 **Link(s) to work:**
 1. [Fixed a bug with removing an item · mpontus/atom-active-tab-in-front@ae490a2](https://github.com/mpontus/atom-active-tab-in-front/commit/ae490a2834d23377f476f6d95eb481f514dbdff8)
+
+### Day 5: July 21, 2017
+
+**Today's Progress**: Working on prettier-install. CLI installer for [prettier](https://github.com/prettier/prettier).
+
+**Thoughts:** Command line tools are an interesting subject. Many opportunities for refactoring.
