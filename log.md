@@ -47,3 +47,9 @@
 **Today's Progress**: Working on prettier-install. CLI installer for [prettier](https://github.com/prettier/prettier).
 
 **Thoughts:** Command line tools are an interesting subject. Many opportunities for refactoring.
+
+### Day 5: July 22, 2017
+
+**Today's Progress:**: Testing prettier-install with cucumber-js.
+
+**Thoughts:** Not much code was written that day. I learned cucumber, and a bit of node.js process management.
