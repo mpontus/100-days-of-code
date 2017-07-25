@@ -53,3 +53,21 @@
 **Today's Progress:**: Testing prettier-install with cucumber-js.
 
 **Thoughts:** Not much code was written that day. I learned cucumber, and a bit of node.js process management.
+
+### Day 6: July 23, 2017
+
+**Today's Progress:**: Continuing to test prettier-install using sinon stubs.
+
+**Thoughts:** I should read a book on programming patterns.
+
+### Day 7: July 24, 2017
+
+**Today's Progress:**: Introduced unit tests to prettier-install.
+
+**Thoughts:** I should read a book on programming patterns.
+
+### Day 8: July 25, 2017
+
+**Today's Progress:**: Finished with backbone for the new prettier-install.
+
+**Thoughts:** Still working not as fast as I would have liked. I should plan ahead more.
