@@ -71,3 +71,10 @@
 **Today's Progress:**: Finished with backbone for the new prettier-install.
 
 **Thoughts:** Still working not as fast as I would have liked. I should plan ahead more.
+
+### Day 9: July 26, 2017
+
+**Today's Progress:**: Manually tested prettier install, introduced feedback and rudimentary CLI options.
+
+**Thoughts:** Planning ahead is great. I had a sense that I was fighting against a clock, which prevented me from being distracted with incidental problems. Split my goal for today in 3 parts, two of which I underestimated.
+
