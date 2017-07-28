@@ -78,3 +78,17 @@
 
 **Thoughts:** Planning ahead is great. I had a sense that I was fighting against a clock, which prevented me from being distracted with incidental problems. Split my goal for today in 3 parts, two of which I underestimated.
 
+### Day 10: July 27, 2017
+
+**Today's Progress:**: Changed feature tests in prettier install to make it possible to simulate failures.
+
+**Thoughts:** Cucumber testing has its uses.
+
+### Day 11: July 28, 2017
+
+**Today's Progress**: Prettier-install, prettier options.
+
+**Thoughts:** I'm probably spending way too much time on tests. But it's not trivial to test manually. And I design decisions forced on me will probably allow me to deliver something to show for the time spent.
+
+**Link(s) to work:**
+1. [NPMCompare.com - Comparing commander vs. minimist vs. nomnom vs. optimist vs. yargs](https://npmcompare.com/compare/commander,minimist,nomnom,optimist,yargs)
