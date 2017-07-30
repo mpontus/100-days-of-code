@@ -92,3 +92,27 @@
 
 **Link(s) to work:**
 1. [NPMCompare.com - Comparing commander vs. minimist vs. nomnom vs. optimist vs. yargs](https://npmcompare.com/compare/commander,minimist,nomnom,optimist,yargs)
+
+### Day 12: July 29, 2017
+
+**Today's Progress**: Released prettier-install. Finished some critical functionality and put together a README.
+
+**Thoughts:**
+ * Currently requires git tree to be clean. This might cause problems to people who invoke `prettier-install` repeatedly to achieve the results they want. Need to add an option to bypass this check.
+ * ESLint and Lint-Staged integrations will be very useful.
+
+**Link(s) to work:**
+1. [prettier-install on NPM](https://www.npmjs.com/package/prettier-install)
+2. [GitHub Repo](https://github.com/mpontus/prettier-install)
+
+### Day 13: July 30, 2017
+
+**Today's Progress**: Prototyped active-tab-in-front extension for chrome.
+
+**Thoughts:**
+ * Preparing the release will probably take another day.
+ * Should make similar extensions for Firefox and VSCode and consolidate 4 packages into a monorepo.
+
+**Link(s) to work:**
+
+1. [GitHub Repo](https://github.com/mpontus/chrome-active-tab-in-front)
