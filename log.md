@@ -116,3 +116,30 @@
 **Link(s) to work:**
 
 1. [GitHub Repo](https://github.com/mpontus/chrome-active-tab-in-front)
+
+### Day 14: July 30, 2017
+
+**Today's Progress**: Implemented prompting support in feedback class
+
+**Thoughts:** Should update this log daily
+
+**Link(s) to work:**
+
+1. [TTY | Node.js v8.2.1 Documentation](https://nodejs.org/api/tty.html)
+2. [Stream | Node.js v8.2.1 Documentation](https://nodejs.org/api/stream.html)
+
+### Day 15: August 1, 2017
+
+**Today's Progress**: Introducing new feedback mechanics to cucumber test
+
+**Thoughts:** Spent majority of the time learning to implement custom stream class for mocks.
+
+### Day 16: August 2, 2017
+
+**Today's Progress**: Added an ability to prettier install to bypass clean working tree verification.
+
+**Thoughts:** Feedback is still ugly.
+
+**Link(s) to work:**
+
+1. [Feature/prompt (#1) · mpontus/prettier-install@1d25743](https://github.com/mpontus/prettier-install/commit/1d257430ae62087a9c75ddb0ab6f4b6792d9c0bb)
