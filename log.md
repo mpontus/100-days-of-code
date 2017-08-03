@@ -143,3 +143,10 @@
 **Link(s) to work:**
 
 1. [Feature/prompt (#1) · mpontus/prettier-install@1d25743](https://github.com/mpontus/prettier-install/commit/1d257430ae62087a9c75ddb0ab6f4b6792d9c0bb)
+
+### Day 17: August 3, 2017
+
+**Today's Progress**: Laid down some groundwork for automated integration with eslint using prettier-install.
+
+**Thoughts:** Gonna need to handle .js, .json, .yaml, and package.json based configurations.
+
