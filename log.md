@@ -150,3 +150,8 @@
 
 **Thoughts:** Gonna need to handle .js, .json, .yaml, and package.json based configurations.
 
+### Day 18: August 4, 2017
+
+**Today's Progress**: Creating a function to add prettier extras to .eslintrc.js.
+
+**Thoughts:** Manipulating AST is hard.
