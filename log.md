@@ -155,3 +155,9 @@
 **Today's Progress**: Creating a function to add prettier extras to .eslintrc.js.
 
 **Thoughts:** Manipulating AST is hard.
+
+### Day 19: August 5, 2017
+
+**Today's Progress**: Continuing to manipulate AST using esprima and ramda.
+
+**Thoughts:** Functional programming is hard.
