@@ -161,3 +161,9 @@
 **Today's Progress**: Continuing to manipulate AST using esprima and ramda.
 
 **Thoughts:** Functional programming is hard.
+
+### Day 20: August 6, 2017
+
+**Today's Progress**: Working on AST's again.
+
+**Thoughts:** I need to spend a full day worth of work on this to make any progress.
