@@ -167,3 +167,29 @@
 **Today's Progress**: Working on AST's again.
 
 **Thoughts:** I need to spend a full day worth of work on this to make any progress.
+
+### Day 21: August 7, 2017
+
+**Today's Progress**: More AST work.
+
+**Thoughts:** I need to spend a full day worth of work on this to make any progress.
+
+### Day 22: August 8, 2017
+
+**Today's Progress**: Finished with AST processing using Ramda. 
+
+**Thoughts:** To be honest it's hardly finished until we handle edge cases. Right now I'm not even sure what would happen. I'm going to delay the merge until I can test the functionality in real environment in a reproducible manner.
+
+**Link(s) to work:**
+
+1. [Finished with AST processing. · mpontus/prettier-install@cc8d7a3](https://github.com/mpontus/prettier-install/commit/cc8d7a3caf018267b5c83f6d98bf4c1bc4f534ea)
+
+### Day 23: August 9, 2017
+
+**Today's Progress**: Working on yaml processing for installing prettier extras into .eslintrc.
+
+**Thoughts:** There is a couple of issues which are begging to slow me down:
+
+1. Client's responsibility is unclear. It was introduced as an injectible dependecy to allow mocking real system in functional tests. It's responsiblities should be limited to disk I/O and command execution.
+2. Should look into modularity some more. Eslint integration asks to be made a module. But how far do the modules go? What would be considered the core functionality?
+3. I need to find a way to test the executable for real in a reproducible environment. There was no good sandboxing solution for NodeJS last time I looked. It would probably require entirely different testing framework, something like introducing Selenium testing into frontend project.
