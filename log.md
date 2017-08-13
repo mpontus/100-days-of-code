@@ -194,7 +194,7 @@
 2. Should look into modularity some more. Eslint integration asks to be made a module. But how far do the modules go? What would be considered the core functionality?
 3. I need to find a way to test the executable for real in a reproducible environment. There was no good sandboxing solution for NodeJS last time I looked. It would probably require entirely different testing framework, something like introducing Selenium testing into frontend project.
 
-### Day 24: August 9, 2017
+### Day 24: August 10, 2017
 
 **Today's Progress**: Injecting eslint extras is almost working. 
 
@@ -204,13 +204,13 @@
 
 1. [Injecting eslint extras should now work for json, yaml, and js. · mpontus/prettier-install@1983a54](https://github.com/mpontus/prettier-install/commit/1983a54a7c66cae2dae157f15928e077336a4ee7)
 
-### Day 25: August 10, 2017
+### Day 25: August 11, 2017
 
 **Today's Progress**: More work on eslint integration.
 
 **Thoughts:** Apparently i missed a lot.
 
-### Day 26: August 11, 2017
+### Day 26: August 12, 2017
 
 **Today's Progress**: Fixed eslint injection for objects, ASTs to go.
 
@@ -220,3 +220,6 @@
 2. Docker seems fine for automatic manual tests. As long as hitting real npm registry is acceptable.
 3. I'm not positive about how eslint works. Should verify the order in which config files are searched, whether adding plugin without config resolves conflicts, and if prettier plugin makes `eslint --fix` is enough to replace prettier command.
 
+### Day 27: August 13, 2017
+
+**Today's Progress**: Eslint integration should be working now. Going to perform manual test before merging.
