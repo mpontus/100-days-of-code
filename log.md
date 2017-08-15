@@ -223,3 +223,13 @@
 ### Day 27: August 13, 2017
 
 **Today's Progress**: Eslint integration should be working now. Going to perform manual test before merging.
+
+### Day 28: August 14, 2017
+
+**Today's Progress**: Automating the tedious work of manually testing prettier-install.
+
+**Thoughts:** Cucumber tests obsolete now?
+
+**Link(s) to work:**
+
+1. [mpontus/prettier-install-scenarios: Some snapshots of various environments for testing prettier-install](https://github.com/mpontus/prettier-install-scenarios)
