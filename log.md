@@ -233,3 +233,21 @@
 **Link(s) to work:**
 
 1. [mpontus/prettier-install-scenarios: Some snapshots of various environments for testing prettier-install](https://github.com/mpontus/prettier-install-scenarios)
+
+### Day 29: August 15, 2017
+
+**Today's Progress**: Learning Elixir with Elixir School
+
+**Thoughts:** It will probably be helpful.
+
+### Day 30: August 15, 2017
+
+**Today's Progress**: Back to prettier-install. Improved testing scenarios. Merged eslint integration.
+
+**Thoughts:** I was torn between continuing to learn Elixir and continuing to make prettier. I risk losing progress with Elixir, but without picking up another project I will not be able to cement it anyway.
+
+**Link(s) to work:**
+
+1. [Eslint integration · mpontus/prettier-install@ef43b65](https://github.com/mpontus/prettier-install/commit/ef43b65cd39548811157e37801dd976988eb47dd)
+
+
