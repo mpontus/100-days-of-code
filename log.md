@@ -240,7 +240,7 @@
 
 **Thoughts:** It will probably be helpful.
 
-### Day 30: August 15, 2017
+### Day 30: August 16, 2017
 
 **Today's Progress**: Back to prettier-install. Improved testing scenarios. Merged eslint integration.
 
@@ -250,4 +250,20 @@
 
 1. [Eslint integration · mpontus/prettier-install@ef43b65](https://github.com/mpontus/prettier-install/commit/ef43b65cd39548811157e37801dd976988eb47dd)
 
+### Day 31: August 17, 2017
 
+**Today's Progress**: Finished with the basics of Elixir.
+
+**Thoughts:** I shall build a link shortener API using elixir. Useless but tangible.
+
+### Day 32: August 18, 2017
+
+**Today's Progress**: Porting my simple extension to VSCode.
+
+**Thoughts:** VSCode API appears to be very limited.
+
+### Day 33: August 19, 2017
+
+**Today's Progress**: Almost ported tab-cycle to Firefox.
+
+**Thoughts:** There are some uncertainties regarding permitted key bindings. At the very least I could bind cycling commands to custom commands to Ctrl+Shift+N/P.
