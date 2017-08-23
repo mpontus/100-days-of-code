@@ -267,3 +267,21 @@
 **Today's Progress**: Almost ported tab-cycle to Firefox.
 
 **Thoughts:** There are some uncertainties regarding permitted key bindings. At the very least I could bind cycling commands to custom commands to Ctrl+Shift+N/P.
+
+### Day 34: August 20, 2017
+
+**Today's Progress**: Submitted Tab-Cycle firefox extension for review.
+
+**Thoughts:** I will need to revisit chrome extension
+
+### Day 35: August 21, 2017
+
+**Today's Progress**: Fleshed out requirements for prettier-install.
+
+**Thoughts:** Should probably do that outside of 1h of code challenge.
+
+### Day 36: August 22, 2017
+
+**Today's Progress**: Prettier-install refactoring is underway.
+
+**Thoughts:** I was surprised to discover that Node's core library readline provides helpers for moving cursor in TTY stream.
