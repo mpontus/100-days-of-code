@@ -285,3 +285,9 @@
 **Today's Progress**: Prettier-install refactoring is underway.
 
 **Thoughts:** I was surprised to discover that Node's core library readline provides helpers for moving cursor in TTY stream.
+
+### Day 37: August 22, 2017
+
+**Today's Progress**: Prettier-install rewrite: first module, few helpers, ES2015.
+
+**Thoughts:** I must outline the architecture and live by it. Seems I didn't think through where to put command invoker.
