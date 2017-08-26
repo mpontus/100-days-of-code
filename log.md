@@ -301,3 +301,14 @@
 **Link(s) to work:**
 
 1. [installPrettier module · mpontus/prettier-install@cdd3fab](https://github.com/mpontus/prettier-install/commit/cdd3fabc357f7143685e4183a7f10430813f4c28)
+
+### Day 39: August 25, 2017
+
+**Today's Progress**: Sketched up tests for the environment module.
+
+**Thoughts:** Will need to revisit eslint integration.
+
+**Link(s) to work:**
+
+1. [Skeleton for the environment tests · mpontus/prettier-install@e92bee2](https://github.com/mpontus/prettier-install/commit/e92bee2beae6b2f2d9dd2600920432748f075250)
+2. [eslint/config-file.js at master · eslint/eslint](https://github.com/eslint/eslint/blob/master/lib/config/config-file.js)
