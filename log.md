@@ -312,3 +312,24 @@
 
 1. [Skeleton for the environment tests · mpontus/prettier-install@e92bee2](https://github.com/mpontus/prettier-install/commit/e92bee2beae6b2f2d9dd2600920432748f075250)
 2. [eslint/config-file.js at master · eslint/eslint](https://github.com/eslint/eslint/blob/master/lib/config/config-file.js)
+
+### Day 40: August 27, 2017
+
+**Today's Progress**: Struggled with Promise composition for finding eslintrc location.
+
+**Thoughts:** I should look into Fluture as well as fill the gaps in my understanding of functional programming.
+
+**Link(s) to work:**
+
+1. [fluture-js/Fluture: FantasyLand compliant (monadic) alternative to Promises](https://github.com/fluture-js/Fluture)
+2. [Introduction · mostly-adequate-guide](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
+
+### Day 41: August 28, 2017
+
+**Today's Progress**: Implemented most of the features for environment module for prettier-install.
+
+**Thoughts:** It does not have to be a class. Factory could be implemented for any options that need to be passed down.
+
+**Link(s) to work:**
+
+1. [Implement most of the Environment module features · mpontus/prettier-install@065659f](https://github.com/mpontus/prettier-install/commit/065659fdbe1e2f68c8c8f9fde063c06f1e264c91)
