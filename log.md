@@ -333,3 +333,13 @@
 **Link(s) to work:**
 
 1. [Implement most of the Environment module features · mpontus/prettier-install@065659f](https://github.com/mpontus/prettier-install/commit/065659fdbe1e2f68c8c8f9fde063c06f1e264c91)
+
+### Day 42: August 29, 2017
+
+**Today's Progress**: Implemented second prettier-install module: AddPrettierScript.
+
+**Thoughts**: Testing is easy when you don't consider edge-cases.
+
+**Link(s) to work:**
+
+1. [Implement addPrettierScript module · mpontus/prettier-install@7948bdb](https://github.com/mpontus/prettier-install/commit/7948bdb8355f9209bc300714d98535889721b86d)
