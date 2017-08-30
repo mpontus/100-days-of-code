@@ -343,3 +343,13 @@
 **Link(s) to work:**
 
 1. [Implement addPrettierScript module · mpontus/prettier-install@7948bdb](https://github.com/mpontus/prettier-install/commit/7948bdb8355f9209bc300714d98535889721b86d)
+
+### Day 43: August 30, 2017
+
+**Today's Progress**: Tried to implement prettier-options, but realized I don't know the requirements.
+
+**Thoughts**:
+
+- Maybe I knew the requirements if I were to look at my notes.
+- My notes are prone to change. I should revisit my notes and see why planning ahead approach didn't work.
+
