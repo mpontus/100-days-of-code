@@ -353,3 +353,9 @@
 - Maybe I knew the requirements if I were to look at my notes.
 - My notes are prone to change. I should revisit my notes and see why planning ahead approach didn't work.
 
+### Day 44: August 31, 2017
+
+**Today's Progress**: Sketched up tests for all remaining modules.
+
+**Thoughts**: I'm trying a new approach where I write non-functioning tests for everything that I plan to do at some point. Any thoughts and research subjects that come to mind during that process go into TODO list. I feel like it keeps me focused, and gives much needed perspective.
+
