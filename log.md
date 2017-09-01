@@ -359,3 +359,8 @@
 
 **Thoughts**: I'm trying a new approach where I write non-functioning tests for everything that I plan to do at some point. Any thoughts and research subjects that come to mind during that process go into TODO list. I feel like it keeps me focused, and gives much needed perspective.
 
+### Day 45: September 1, 2017
+
+**Today's Progress**: Implemented installEslintPlugin module along with some utilities.
+
+**Thoughts**: I'm very satisfied with my new approach. Especially because it prevents me from thinking too deep about the current problem, which would have taken me out of the flow. I feel like I accomplished much today, including all the new TODO items.
