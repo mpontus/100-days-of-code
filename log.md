@@ -370,3 +370,9 @@
 **Today's Progress**: Merged eslint integration modules into a single module
 
 **Thoughts**: I'm not as driven as yesterday, suffering from foggy brain a bit. I probably haven't slept as much as I needed to.
+
+### Day 47: September 3, 2017
+
+**Today's Progress**: Web Audio API. Been trying to make a tool, that's gonna capture a stream and repeat it after some duration of silence.
+
+**Thoughts**: Maybe I'm overthinking it.
