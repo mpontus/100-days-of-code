@@ -376,3 +376,9 @@
 **Today's Progress**: Web Audio API. Been trying to make a tool, that's gonna capture a stream and repeat it after some duration of silence.
 
 **Thoughts**: Maybe I'm overthinking it.
+
+### Day 48: September 4, 2017
+
+**Today's Progress**: runPrettier module. More TODO entries.
+
+**Thoughts**: I'm having hard time doing something when I know its bad. Todo list should have helped me with that, but perhaps it could be made more accessible.
