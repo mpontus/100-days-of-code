@@ -382,3 +382,15 @@
 **Today's Progress**: runPrettier module. More TODO entries.
 
 **Thoughts**: I'm having hard time doing something when I know its bad. Todo list should have helped me with that, but perhaps it could be made more accessible.
+
+### Day 49: September 5, 2017
+
+**Today's Progress**: Final run-prettier module and some web audio exper
+
+**Thoughts**: I'm having hard time doing something when I know its bad. Todo list should have helped me with that, but perhaps it could be made more accessible.
+
+### Day 50: September 6, 2017
+
+**Today's Progress**: updatePrettierConfig module, many TODOs, a few helpers
+
+**Thoughts**: Tweeting is the worst part about this challenge for me now. But I'm afraid to stop.
