@@ -394,3 +394,9 @@
 **Today's Progress**: updatePrettierConfig module, many TODOs, a few helpers
 
 **Thoughts**: Tweeting is the worst part about this challenge for me now. But I'm afraid to stop.
+
+### Day 51: September 6, 2017
+
+**Today's Progress**: Making prettier-install environment directory aware
+
+**Thoughts**: Testing takes a lot of time, but I don't know if I would have gotten to this point without it.
