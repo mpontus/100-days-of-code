@@ -395,8 +395,14 @@
 
 **Thoughts**: Tweeting is the worst part about this challenge for me now. But I'm afraid to stop.
 
-### Day 51: September 6, 2017
+### Day 51: September 7, 2017
 
 **Today's Progress**: Making prettier-install environment directory aware
 
 **Thoughts**: Testing takes a lot of time, but I don't know if I would have gotten to this point without it.
+
+### Day 52: September 8, 2017
+
+**Today's Progress**: Refactor new environment methods using async.js
+
+**Thoughts**: Having tests helped me a lot today.
